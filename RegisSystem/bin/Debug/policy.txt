@@ -1,0 +1,40 @@
+Policiy Statement
+• All users must ensure that their password is not divulged or shared with 
+anyone else.
+• All users must not create passwords that fall in to the category of weak 
+passwords under the construction guidelines.
+• All users must not write down and store passwords within the office i.e. in 
+office diaries or paper files.
+• Passwords must not be inserted into email messages or other forms of 
+electronic communication with the exception of some systems/processes
+which may require automatically generated temporary passwords to be sent. 
+Temporary passwords must be changed as soon as possible.
+• All ICT devices which may require local logon privileges for configuration and 
+maintenance i.e. Printers, network switches, routers, SAN appliances etc. 
+must all have the built-in default admin (or equivalent) account password 
+changed in line with the guidelines of this policy wherever possible.
+Consideration should be given in the use of Multi-Factor Authentication (MFA) 
+wherever possible or appropriate
+• All ICT systems should:
+
+Statement of Guidelines
+
+Strong passwords have the following characters:
+• Contain at least 8 alphanumeric characters.
+• Contain at least 1 uppercase letter.
+• Contain at least 1 lower case letters.
+• Contain at least one number (for example, 0-9).
+• Contain at least one special character (for example, !$%^&*()_+/~{}[]:”;’<>?,/).
+
+Weak password have following characters:
+•Contain less than 8 characters.
+• Can be found in a dictionary, including foreign language, or exist in a language slang, dialect, 
+or jargon.
+• Contain personal information such as birthdates, addresses, phone numbers or names of 
+family members, pets, friends, and fantasy characters.
+• Contain work-related information such as building names, system commands, sites, 
+companies, hardware, or software.
+
+• Contain common words spelled backward or preceded or followed by a number (for example, 
+terces, secret1 or 1secret).
+• Are some version of  “Password@123”,"qwerty@123", etc.
